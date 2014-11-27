@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'HZUtility'
-  s.version      = 'v0.1'
+  s.version      = '1.0'
   s.summary      = 'something useful utility class for iOS dev'
   s.author       = 'hzwzw'
   s.homepage     = 'https://github.com/hzwzw/HZUtility'
