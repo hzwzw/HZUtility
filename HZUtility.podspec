@@ -5,8 +5,7 @@ Pod::Spec.new do |s|
   s.author       = 'hzwzw'
   s.homepage     = 'https://github.com/hzwzw/HZUtility'
   s.license      = 'MIT'
-
-  s.source       = :git => 'https://github.com/hzwzw/HZUtility.git', :tag => 'v0.1'
+  s.source       = :git => 'https://github.com/hzwzw/HZUtility.git'
   s.platform     = :ios, '5.0'
 
   s.source_files = 'UIView/*'
