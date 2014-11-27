@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = 'something useful utility class for iOS dev'
   s.author       = 'hzwzw'
   s.homepage     = 'https://github.com/hzwzw/HZUtility'
-  s.license      = 'MIT'
+  s.license      = { :type => 'MIT' }
   s.source       = { :git => 'https://github.com/hzwzw/HZUtility.git', :tag => 'v0.1' }
   s.platform     = :ios, '5.0'
 
