@@ -1,4 +1,3 @@
-Inkash.xcworkspace/xcshareddata/Inkash.xccheckout
 d::Spec.new do |s|
   s.name         = 'HZUtility'
   s.summary      = 'something useful utility class for iOS dev'
